@@ -1,0 +1,23 @@
+a) a
+
+
+
+b) 
+
+  |
+
+  | b=(int) fork()
+
+  |______________________
+
+  |                      |   
+
+  | c= pid do pai        | c= pid do filho  
+
+  |                      |
+
+  | d= pid do pai do pai | d= pid do pai do filho 
+
+  |                      |  
+
+  | a=5                  | a= 5 

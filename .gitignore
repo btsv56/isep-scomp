@@ -1,0 +1,9 @@
+*
+!makefile
+!Makefile
+!/**/
+!*.*
+
+*.o
+
+S2/Shared Memory/.vscode/

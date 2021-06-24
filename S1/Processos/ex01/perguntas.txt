@@ -1,0 +1,9 @@
+a)
+	2. x = 0
+	3. 1234; x = 0
+	1. x = 2
+	3. 0; x = 2
+
+   The parent process runs and ends first, making line 9 and 11 run first. Only then the child process's lines run.
+
+b) No. If the result of fork() is -1 (due to an error), the second printf command won't run before the third. Also, if the child process runs before the parent process, the order will be 1-3-2-3.

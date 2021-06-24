@@ -1,0 +1,2 @@
+Os resultados vão ser sempre corretos uma vez que na zona de memória partilhada existe uma variavel que será testada constantemente
+através de uma mecanismo de espera ativa e que impede que o pai e o filho acedam à zona de memória partilhada ao msm tempo.

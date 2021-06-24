@@ -1,0 +1,2 @@
+a) The output is not sorted and it's not garanteed that it will ever be, because the child processes run at the same time which means
+that the numbers will be written at the same time but by different processes.

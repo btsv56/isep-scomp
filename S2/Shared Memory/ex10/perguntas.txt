@@ -1,0 +1,8 @@
+Tempo 1 processos: 0.000045
+Tempo 2 processos: 0.000013
+Tempo 4 processos: 0.000021
+Tempo 5 processos: 0.000044
+Tempo 6 processos: 0.000187
+Tempo 10 processos:0.000038
+
+Tendo em conta que a minha máquina possui processador intel de 2 cores, é natural que o programa corra mais rapidamente com 2 processos.

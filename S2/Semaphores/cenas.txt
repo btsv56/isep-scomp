@@ -1,0 +1,2 @@
+ex2, ex6, ex9, ex10, ex15: nao fez verificacao de metodos e falta fechar
+ex10, ex16: falta de semáforos a impedir acesso á zona critica

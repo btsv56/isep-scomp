@@ -1,0 +1,1 @@
+a) Para fazer uma operação write, o pipe tem que esperar por uma operação read dos processos filhos. Assim, os processos estão sincronizados naturalmente.

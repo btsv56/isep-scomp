@@ -1,0 +1,4 @@
+a) Only two PIDs are listed: the parent's and one of the child's. 
+This happens because the parent process is still running when the child process finishes. However, the OS can't remove the process from the process list.
+
+b) The reason why only one of the child processes shows on the list is because the parent has a waitpid instruction for one of them. This removes it from the processes list. The other child process remains (as defunct) on the process list, which is known as a zombie process. 
